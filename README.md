@@ -1,2 +1,4 @@
 # hello-world
-First Repository
+Hello -
+I'm a former Spanish teacher learning to code. 
+
